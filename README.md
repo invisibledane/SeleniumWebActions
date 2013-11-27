@@ -8,7 +8,7 @@ This is a library of web actions Selenium engineers will find themselves utilizi
 
 C# NOTES: I leverage the Visual Studio unit test tools to Assert Inconclusive in the case of an exception. I've found this to be a very efficient way to handle asserts in general. E-mail me and I'd be more than happy to create a framework agnostic version.
 
-Current list of methods:
+========== Current list of methods ==========
 
 1. WaitForElement: Waits for a number of seconds (passed into the method) until an element is found by ID.
 
