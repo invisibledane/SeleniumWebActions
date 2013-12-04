@@ -1,10 +1,13 @@
 SeleniumWebActions
 ==================
+
 Rev. date: 11/27/2013
+
 Author: Dane
+
 Contact: dgrace@mykolab.com
 
-This is a library of web actions Selenium engineers will find themselves utilizing often. 
+This is a library of web actions that I, as a Selenium engineer, found myself utilizing often. 
 
 C# NOTES: I leverage the Visual Studio unit test tools to Assert Inconclusive in the case of an exception. I've found this to be a very efficient way to handle asserts in general. E-mail me and I'd be more than happy to create a framework agnostic version.
 
