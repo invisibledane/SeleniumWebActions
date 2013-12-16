@@ -5,7 +5,6 @@ Rev. date: 11/27/2013
 
 Author: Dane
 
-Contact: dgrace@mykolab.com
 
 This is a library of web actions that I, as a Selenium engineer, found myself utilizing often. 
 
